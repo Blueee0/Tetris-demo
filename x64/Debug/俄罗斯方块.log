@@ -1,0 +1,5 @@
+﻿  main.cpp
+D:\coding\my_cans\C learn\俄罗斯方块\main.cpp(866,4): warning C4551: 缺少参数列表的函数调用
+D:\coding\my_cans\C learn\俄罗斯方块\main.cpp(952,2): warning C4551: 缺少参数列表的函数调用
+D:\coding\my_cans\C learn\俄罗斯方块\main.cpp(995,4): warning C4551: 缺少参数列表的函数调用
+  俄罗斯方块.vcxproj -> D:\coding\my_cans\C learn\俄罗斯方块\x64\Debug\俄罗斯方块.exe

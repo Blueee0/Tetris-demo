@@ -1,0 +1,2 @@
+C:\Users\小林想睡觉\source\repos\俄罗斯方块\x64\Debug\俄罗斯方块.exe
+D:\coding\my_cans\C learn\俄罗斯方块\x64\Debug\俄罗斯方块.exe
